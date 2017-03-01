@@ -41,6 +41,7 @@ $(function(){
 			if(index == '2'){
 				$(".section2 .title .line").css("width","0");
 				$(".section2 .title .me").css("display","none");
+				
 			}
 		}
 	});
